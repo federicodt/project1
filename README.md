@@ -29,19 +29,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each flight was crossed-checked against the [agenda of activities of the President of the Argentine Nation](https://www.casarosada.gob.ar/informacion/actividad-oficial), in order to find out if there was any official trip.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also, each flight, each flight, especially those to Posadas, Misiones, were checked against the first lady's social media accounts: [Instagram](https://www.instagram.com/fabiolaoficialok/),[Facebook](https://www.facebook.com/fabiolaoficialok/) and [YouTube](https://www.youtube.com/channel/UCs4ytErpRkwyD1Gj_LzLliQ).
 
-
-https://www.instagram.com/fabiolaoficialok/
-
-https://www.facebook.com/fabiolaoficialok/
-https://www.youtube.com/channel/UCs4ytErpRkwyD1Gj_LzLliQ
 
 
 https://www.flightradar24.com/data/airports
 https://www.flightradar24.com/data/aircraft
 https://www.flightradar24.com/data/flights
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
