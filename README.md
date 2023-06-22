@@ -17,19 +17,21 @@
 
 ## **Project data collection.**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I mentioned earlier, two requests for access to public information were filed for this project. As a result of these, I obtained two responses, consisting of three files in "Microsoft 'Excel'" format:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. SGPN answer 1.
+1. SGPN answer 1. - `SGPN answer 1..csv`: Accidents in Copenhagen 2012-2022.
 2. SGPN answer 2.
 3. EANA SE answer.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first two files correspond to the answer of the General Secretariat of the Presidency of the Argentine Nation. The third, to EANA SE's response.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All files are available in the project folder on GitHub.
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Summary of the data collection process, with links
 
