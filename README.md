@@ -24,9 +24,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-- Bike accidents in NYC: [NYC Open Data, Motor Vehicle]([https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95](https://github.com/federicodt/project1/)
+- Bike accidents in NYC: [NYC Open Data, Motor Vehicle](https://github.com/federicodt/project1/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All files are available in the project folder on GitHub.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All files are available in the project folder on [GitHub](https://github.com/federicodt/project1/).
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
