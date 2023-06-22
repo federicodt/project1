@@ -17,9 +17,9 @@
 
 ## **Project data collection.**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I mentioned earlier, two requests for access to public information were filed for this project. As a result of these, I obtained two responses, consisting of three files in "Microsoft 'Excel'" format:
-1. SGPN answer 1. - `SGPN answer 1..csv`: Accidents in Copenhagen 2012-2022.
-2. SGPN answer 2.
-3. EANA SE answer.
+1. `SGPN answer 1.csv`: first file of the response from the General Secretariat of the Presidency of the Argentine Nation.
+2. `SGPN answer 2.csv`: second file of the response from the General Secretariat of the Presidency of the Argentine Nation.
+3. `EANA SE answer.csv`: file of the response from EANA SE.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first two files correspond to the answer of the General Secretariat of the Presidency of the Argentine Nation. The third, to EANA SE's response.
 
