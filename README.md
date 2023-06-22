@@ -1,5 +1,4 @@
 # **The illegal flights of the first lady of Argentina, during the Pandemic lockdown.**
----	
   
 ## **Project objectives.**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first objective is to analyze, separately, the replies of the General Secretariat of the Presidency of the Argentine Nation and from Argentinean Air Navigation Company, State-owned company (EANA SE, in Spanish), regarding the requests for access to public information on the flights of the first lady, Fabiola Yáñez.
@@ -26,6 +25,9 @@
 ## **Project data collection.**
 
 
+https://www.flightradar24.com/data/airports
+https://www.flightradar24.com/data/aircraft
+https://www.flightradar24.com/data/flights
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
