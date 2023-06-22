@@ -22,7 +22,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All files are available in the project folder on [GitHub](https://github.com/federicodt/project1/).
 
-## **Project data collection.**
+## **Project data analysis process.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First, I used filters in each of the "Microsoft 'Excel'" spreadsheets to isolate the data from the first lady's flights. In this way, I found only a few.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then, I filtered by aircraft and destinations; mainly Posadas, Misiones, which is the city where the first lady's family lives.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each flight was crossed-checked against the [agenda of activities of the President of the Argentine Nation](https://www.casarosada.gob.ar/informacion/actividad-oficial), in order to find out if there was any official trip.
+
+
+
+https://www.instagram.com/fabiolaoficialok/
+
+https://www.facebook.com/fabiolaoficialok/
+https://www.youtube.com/channel/UCs4ytErpRkwyD1Gj_LzLliQ
 
 
 https://www.flightradar24.com/data/airports
@@ -33,16 +45,10 @@ https://www.flightradar24.com/data/flights
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Overview of the data analysis process
 
 A section about what new skills, approaches, etc you used, or where you grew the most during the project
 A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)
-Data used for analysis – note that if your data is 100MB+, you can't host it on GitHub. That's fine, just add the file to your .gitignore
-Notebooks used for data collection and analysis
 Your notebooks should include some Markdown cells at the top that explain what you're doing in the notebook. Ideally you also sprinkle commentary/questions throughout the notebook.
-A .gitignoreLinks to an external site. file to keep out any files you don't actually want in the project
 A link to the project page (you can add a link in your README, or by clicking the gear icon next to "About" on the right-hand side of your repo)
