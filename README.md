@@ -17,9 +17,9 @@
 
 ## **Project data collection.**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As I mentioned earlier, two requests for access to public information were filed for this project. As a result of these, I obtained two responses, consisting of three files in "Microsoft 'Excel'" format:
-1. One
-2. Two
-3. Three
+1. SGPN answer 1.
+2. SGPN answer 2.
+3. EANA SE answer.
 
 
 
