@@ -21,13 +21,11 @@
 2. `SGPN answer 2.csv`: second file of the response from the General Secretariat of the Presidency of the Argentine Nation.
 3. `EANA SE answer.csv`: file of the response from EANA SE.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-- Bike accidents in NYC: [NYC Open Data, Motor Vehicle](https://github.com/federicodt/project1/)
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All files are available in the project folder on [GitHub](https://github.com/federicodt/project1/).
 
+## **Project data collection.**
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,10 +33,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-Summary of the data collection process, with links
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Overview of the data analysis process
+
 A section about what new skills, approaches, etc you used, or where you grew the most during the project
 A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)
 Data used for analysis – note that if your data is 100MB+, you can't host it on GitHub. That's fine, just add the file to your .gitignore
