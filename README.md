@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finally, graph the findings.
 
 ## **Project findings.**
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first finding was that the General Secretariat of the Presidency of Argentina lied in its response to the request for access to public information. The agency did not include all the flights of the First Lady and, on the other hand, altered some of the data of several of the flights.
 
 
 
