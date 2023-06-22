@@ -3,7 +3,9 @@
   
 ## **Project objectives.**
   The first objective is to analyze, separately, the replies of the General Secretariat of the Presidency of the Argentine Nation and from Argentinean Air Navigation Company, State-owned company (EANA SE, in Spanish), regarding the requests for access to public information on the flights of the first lady, Fabiola Yáñez.
+  
   The second objective is to cross-check the data of both answers, in order to detect inconsistencies. In case of finding them, verify which is true, which is not, or if both are false.
+  
   The third objective is to detect if the first lady always traveled as a companion of the President of Argentina, Alberto Ángel Fernández. 
   Finally, graph the findings.
 
