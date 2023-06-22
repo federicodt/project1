@@ -13,7 +13,7 @@
 ## **Project findings.**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first finding was that the General Secretariat of the Presidency of Argentina lied in its response to the request for access to public information. The agency did not include all the flights of the First Lady and, on the other hand, altered some of the data of several of the flights. This emerged from crossing both answers. The information provided by EANA SE was collected from each airport in the country.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On other side, 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On other side, On the other hand, I found that the first lady used the planes and helicopters of the presidential air fleet during the lockdown for the Coronavirus Pandemic. By law, the first lady cannot use them, because she does not hold any position in the National State. The only exception is if she travels with the President of the Nation and her presence is justified. In addition to all this, there is the aggravating circumstance that public funds were used.
 
 
 
