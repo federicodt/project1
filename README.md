@@ -31,11 +31,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Also, each flight, each flight, especially those to Posadas, Misiones, were checked against the first lady's social media accounts: [Instagram](https://www.instagram.com/fabiolaoficialok/), [Facebook](https://www.facebook.com/fabiolaoficialok/) and [YouTube](https://www.youtube.com/channel/UCs4ytErpRkwyD1Gj_LzLliQ).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moreover, each flight was checked against the "[FlightRadar24]"(https://www.flightradar24.com/) database, especially the search by airport, aircraft and flights.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moreover, each flight was checked against the [FlightRadar24](https://www.flightradar24.com/) database, especially the search by [airport](https://www.flightradar24.com/data/airports), [aircraft](https://www.flightradar24.com/data/aircraft) and [flights](https://www.flightradar24.com/data/flights).
 
-https://www.flightradar24.com/data/airports
-https://www.flightradar24.com/data/aircraft
-https://www.flightradar24.com/data/flights
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
