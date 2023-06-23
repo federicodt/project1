@@ -33,14 +33,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moreover, each flight was checked against the [FlightRadar24](https://www.flightradar24.com/) database, especially the search by [airport](https://www.flightradar24.com/data/airports), [aircraft](https://www.flightradar24.com/data/aircraft) and [flights](https://www.flightradar24.com/data/flights).
 
+## **Notebooks.**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No notebooks were used for this project.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+## **Learnings and obstacles during the project.**
 
-Overview of the data analysis process
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I started from scratch with HTML and, based on a template, I was able to build the website and, by consulting several web pages, I was able to make modifications. I had never used Flourish and Datawrapper. Not only did I enjoy doing it, but I am beginning to understand the things I can do with these tools. Also, I started to feel less afraid to start a project and to tell a story with data.
 
-A section about what new skills, approaches, etc you used, or where you grew the most during the project
-A section about things you tried to do or wanted to do but did not have the skills/time (but if you have more time you might do)
-Your notebooks should include some Markdown cells at the top that explain what you're doing in the notebook. Ideally you also sprinkle commentary/questions throughout the notebook.
-A link to the project page (you can add a link in your README, or by clicking the gear icon next to "About" on the right-hand side of your repo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If I had more time, more skills and more confidence in them, I would have used Python and Pandas to analyze the data. Besides, I would have used Qgis, to map the data. Also, I would have made better graphics.
+
+## **Proyect link.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[he illegal flights of the first lady of Argentina, during the Pandemic lockdown]()
